@@ -1,0 +1,15 @@
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\bin\Debug\net6.0\InMemoryCache.exe
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\bin\Debug\net6.0\InMemoryCache.deps.json
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\bin\Debug\net6.0\InMemoryCache.runtimeconfig.json
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\bin\Debug\net6.0\InMemoryCache.dll
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\bin\Debug\net6.0\ref\InMemoryCache.dll
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\bin\Debug\net6.0\InMemoryCache.pdb
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.csproj.AssemblyReference.cache
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.AssemblyInfoInputs.cache
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.AssemblyInfo.cs
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.csproj.CoreCompileInputs.cache
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.dll
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\ref\InMemoryCache.dll
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.pdb
+C:\Users\stopkan\Desktop\InMemoryCache\InMemoryCache\obj\Debug\net6.0\InMemoryCache.genruntimeconfig.cache
